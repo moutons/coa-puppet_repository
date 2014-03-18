@@ -28,5 +28,5 @@ mod "coa-varnish",
   :ref => 'master'
 
 mod "coa-memcached",
-  :git => 'git://github.com/cvquesty/coa-mmcached.git',
+  :git => 'git://github.com/cvquesty/coa-memcached.git',
   :ref => 'master'
