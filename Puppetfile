@@ -13,4 +13,20 @@ mod "gentoo/portage"
 # Custom Modules Section
 mod "coa-apache",
   :git => "git://github.com/cvquesty/coa-apache.git",
-  :ref => '81e945939ab72de1133cedffd8c9a7f24b6c2f18'
+  :ref => 'development'
+
+mod "coa-mysql",
+  :git => "git://github.com/cvquesty/coa-mysql.git",
+  :ref => 'development'
+
+mod "coa-php",
+  :git => "git://github.com/cvquesty/coa-php.git",
+  :ref => 'development'
+
+mod "coa-apache",
+  :git => "git://github.com/cvquesty/coa-varnish.git",
+  :ref => 'development'
+
+mod "coa-apache",
+  :git => "git://github.com/cvquesty/coa-memcached.git",
+  :ref => 'development'
