@@ -23,10 +23,10 @@ mod "coa-php",
   :git => "git://github.com/cvquesty/coa-php.git",
   :ref => 'development'
 
-mod "coa-apache",
+mod "coa-varnish",
   :git => "git://github.com/cvquesty/coa-varnish.git",
   :ref => 'development'
 
-mod "coa-apache",
+mod "coa-memcached",
   :git => "git://github.com/cvquesty/coa-memcached.git",
   :ref => 'development'
