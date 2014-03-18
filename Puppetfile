@@ -2,9 +2,7 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
 mod "puppetlabs/stdlib"
-mod "puppetlabs/apache", "1.0.1"
 mod "puppetlabs/pe_gem"
-mod "puppetlabs/mysql"
 mod "puppetlabs/firewall"
 mod "puppetlabs/vcsrepo"
 mod "puppetlabs/git"
