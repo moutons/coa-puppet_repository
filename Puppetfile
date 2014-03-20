@@ -30,3 +30,7 @@ mod "coa-varnish",
 mod "coa-memcached",
   :git => "git://github.com/cvquesty/coa-memcached.git",
   :ref => 'development'
+
+mod "coa-drupal",
+  :git => "git://github.com/cvquesty/coa-drupal.git",
+  :ref => 'development'
