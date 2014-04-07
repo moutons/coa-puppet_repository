@@ -9,6 +9,7 @@ mod "puppetlabs/git"
 mod "puppetlabs/inifile"
 mod "zack/r10k"
 mod "gentoo/portage"
+mod "puppetlabs/mysql", '2.2.3'
 
 # Custom Modules Section
 mod "coa-apache",
