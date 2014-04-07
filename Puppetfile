@@ -13,11 +13,11 @@ mod "puppetlabs/mysql", '2.2.3'
 
 # Custom Modules Section
 mod "coa-apache",
-  :git => "git://github.com/moutons/coa-apache.git",
+  :git => "git://github.com/cvquesty/coa-apache.git",
   :ref => 'production'
 
 mod "coa-mysql",
-  :git => "git://github.com/cvquesty/coa-mysql.git",
+  :git => "git://github.com/moutons/coa-mysql.git",
   :ref => 'production'
 
 mod "coa-php",
